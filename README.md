@@ -1,5 +1,12 @@
 # Veg Finder
 
+[![commit-stage-monolith](https://github.com/jcupac/veg-finder/actions/workflows/commit-stage-monolith.yml/badge.svg)](https://github.com/jcupac/veg-finder/actions/workflows/commit-stage-monolith.yml)
+[![acceptance-stage](https://github.com/jcupac/veg-finder/actions/workflows/acceptance-stage.yml/badge.svg)](https://github.com/jcupac/veg-finder/actions/workflows/acceptance-stage.yml)
+[![qa-stage](https://github.com/jcupac/veg-finder/actions/workflows/qa-stage.yml/badge.svg)](https://github.com/jcupac/veg-finder/actions/workflows/qa-stage.yml)
+[![qa-signoff](https://github.com/jcupac/veg-finder/actions/workflows/qa-signoff.yml/badge.svg)](https://github.com/jcupac/veg-finder/actions/workflows/qa-signoff.yml)
+[![prod-stage](https://github.com/jcupac/veg-finder/actions/workflows/prod-stage.yml/badge.svg)](https://github.com/jcupac/veg-finder/actions/workflows/prod-stage.yml)
+
+
 [![pages-build-deployment](https://github.com/jasonribble/veg-finder/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/jasonribble/veg-finder/actions/workflows/pages/pages-build-deployment)
 
 This is a sandbox project for the [ATDD Accelerator](https://atdd-accelerator.optivem.com) program, where we build a system using **Acceptance Test Driven Development (ATDD)**.
