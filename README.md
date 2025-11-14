@@ -1,7 +1,5 @@
 # Veg Finder
 
-random comment
-
 [![pages-build-deployment](https://github.com/jasonribble/veg-finder/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/jasonribble/veg-finder/actions/workflows/pages/pages-build-deployment)
 
 This is a sandbox project for the [ATDD Accelerator](https://atdd-accelerator.optivem.com) program, where we build a system using **Acceptance Test Driven Development (ATDD)**.
